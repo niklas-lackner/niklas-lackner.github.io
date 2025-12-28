@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://niklas-lackner.github.io/al-folio/sitemap.xml
+Sitemap: https://niklas-lackner.github.io/sitemap.xml
