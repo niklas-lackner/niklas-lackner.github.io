@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://niklas-lackner.github.io/sitemap.xml
+Sitemap: https://niklaslackner.github.io/sitemap.xml
