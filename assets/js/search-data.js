@@ -101,7 +101,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/niklas-a-lackner# your LinkedIn user name", "_blank");
+          window.open("https://www.linkedin.com/in/niklas-a-lackner-ab37b614b", "_blank");
         },
       },{
         id: 'social-rss',
