@@ -68,7 +68,6 @@ html[data-theme-setting="dark"] .collab-logos a {
       <a href="https://example.org" target="_blank" rel="noopener">
     <img src="{{ '/assets/img/collaborators/ideaLab.png' | relative_url }}" alt="Collaborator 9">
   </a>
-  </a>
       <a href="https://example.org" target="_blank" rel="noopener">
     <img src="{{ '/assets/img/collaborators/Maastro.png' | relative_url }}" alt="Collaborator 10">
   </a>
