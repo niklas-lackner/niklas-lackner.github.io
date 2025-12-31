@@ -41,7 +41,7 @@ html[data-theme-setting="dark"] .collab-logos a {
 </style>
 
 <div class="collab-logos">
-  <a href="https://example.org" target="_blank" rel="noopener">
+  <a href="http://www.rayconstruct.de/" target="_blank" rel="noopener">
     <img src="{{ '/assets/img/collaborators/RCS.png' | relative_url }}" alt="Collaborator 1">
   </a>
   <a href="https://example.org" target="_blank" rel="noopener">
