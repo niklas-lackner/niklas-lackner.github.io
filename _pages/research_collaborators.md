@@ -44,31 +44,31 @@ html[data-theme-setting="dark"] .collab-logos a {
   <a href="http://www.rayconstruct.de/" target="_blank" rel="noopener">
     <img src="{{ '/assets/img/collaborators/RCS.png' | relative_url }}" alt="Collaborator 1">
   </a>
-  <a href="https://example.org" target="_blank" rel="noopener">
+  <a href="https://www.qrm.de/en/" target="_blank" rel="noopener">
     <img src="{{ '/assets/img/collaborators/QRM.png' | relative_url }}" alt="Collaborator 2">
   </a>
-  <a href="https://example.org" target="_blank" rel="noopener">
+  <a href="https://www.siemens-healthineers.com/" target="_blank" rel="noopener">
     <img src="{{ '/assets/img/collaborators/Siemens.png' | relative_url }}" alt="Collaborator 3">
   </a>
-  <a href="https://example.org" target="_blank" rel="noopener">
+  <a href="https://www.ucalgary.ca/" target="_blank" rel="noopener">
     <img src="{{ '/assets/img/collaborators/Calgary.png' | relative_url }}" alt="Collaborator 4">
   </a>
-  <a href="https://example.org" target="_blank" rel="noopener">
+  <a href="https://www.medizin3.uk-erlangen.de/" target="_blank" rel="noopener">
     <img src="{{ '/assets/img/collaborators/Med3.png' | relative_url }}" alt="Collaborator 5">
   </a>
-    <a href="https://example.org" target="_blank" rel="noopener">
+    <a href="https://www.upenn.edu/" target="_blank" rel="noopener">
     <img src="{{ '/assets/img/collaborators/upen.png' | relative_url }}" alt="Collaborator 6">
   </a>
-    <a href="https://example.org" target="_blank" rel="noopener">
+    <a href="https://www.strahlenklinik.uk-erlangen.de/" target="_blank" rel="noopener">
     <img src="{{ '/assets/img/collaborators/strahlenklinik.png' | relative_url }}" alt="Collaborator 7">
   </a>
-    <a href="https://example.org" target="_blank" rel="noopener">
+    <a href="https://www.dkfz.de/" target="_blank" rel="noopener">
     <img src="{{ '/assets/img/collaborators/dkfz.png' | relative_url }}" alt="Collaborator 8">
   </a>
-      <a href="https://example.org" target="_blank" rel="noopener">
+      <a href="https://www.idea.tf.fau.eu/" target="_blank" rel="noopener">
     <img src="{{ '/assets/img/collaborators/ideaLab.png' | relative_url }}" alt="Collaborator 9">
   </a>
-      <a href="https://example.org" target="_blank" rel="noopener">
+      <a href="https://www.maastro.nl/" target="_blank" rel="noopener">
     <img src="{{ '/assets/img/collaborators/Maastro.png' | relative_url }}" alt="Collaborator 10">
   </a>
 </div>
