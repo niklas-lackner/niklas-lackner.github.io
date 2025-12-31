@@ -11,19 +11,32 @@
   margin: 0 auto;
 }
 .collab-logos a {
-  display: block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   width: 100%;
+  height: 96px;
+  padding: 8px;
+  box-sizing: border-box;
   text-align: center;
+}
+.collab-logos a:focus-visible {
+  outline: 2px solid var(--global-hover-color);
+  outline-offset: 2px;
+}
+
+html[data-theme="dark"] .collab-logos a,
+html[data-theme-setting="dark"] .collab-logos a {
+  background-color: var(--global-hover-text-color);
 }
 .collab-logos img {
   display: block;
-  width: 100%;
   max-width: 160px;
-  height: 80px;
-  padding: 8px;
-  box-sizing: border-box;
+  max-height: 100%;
+  width: auto;
+  height: auto;
   object-fit: contain;
-  margin: 0 auto;
+  margin: 0;
 }
 </style>
 
