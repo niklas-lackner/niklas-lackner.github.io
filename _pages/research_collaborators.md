@@ -1,5 +1,5 @@
 ## Research collaborators
-#
+
 <style>
 .collab-logos {
   display: grid;
