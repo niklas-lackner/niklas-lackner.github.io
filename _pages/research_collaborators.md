@@ -16,10 +16,14 @@
   text-align: center;
 }
 .collab-logos img {
-  max-height: 70px;
-  width: auto;
-  max-width: 100%;
+  display: block;
+  width: 100%;
+  max-width: 160px;
+  height: 80px;
+  padding: 8px;
+  box-sizing: border-box;
   object-fit: contain;
+  margin: 0 auto;
 }
 </style>
 
