@@ -1,4 +1,4 @@
-## RACOON team
+## RACOON Team Erlangen
 
 RACOON is the nationwide network of all university radiology departments and partner institutes in Germany, dedicated to the structured collection, harmonization, and analysis of radiological data for multicenter research and innovation.
 
