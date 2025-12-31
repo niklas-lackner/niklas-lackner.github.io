@@ -59,11 +59,9 @@ html[data-theme-setting="dark"] .collab-logos a {
     <a href="https://example.org" target="_blank" rel="noopener">
     <img src="{{ '/assets/img/collaborators/upen.png' | relative_url }}" alt="Collaborator 6">
   </a>
-    </a>
     <a href="https://example.org" target="_blank" rel="noopener">
-    <img src="{{ '/assets/img/collaborators/upen.png' | relative_url }}" alt="Collaborator 6">
+    <img src="{{ '/assets/img/collaborators/strahlenklinik.png' | relative_url }}" alt="Collaborator 6">
   </a>
-      </a>
     <a href="https://example.org" target="_blank" rel="noopener">
     <img src="{{ '/assets/img/collaborators/dkfz.png' | relative_url }}" alt="Collaborator 7">
   </a>
