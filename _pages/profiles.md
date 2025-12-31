@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: members of the lab or group
+description: research team, RACOON team and collaborators
 nav: true
 nav_order: 7
 
