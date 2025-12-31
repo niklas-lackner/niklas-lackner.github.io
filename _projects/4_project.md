@@ -3,7 +3,7 @@ layout: page
 title: project 4
 description: another without an image
 img: assets/img/DENTECT2.png
-importance: 3
+importance: 1
 category: research
 ---
 

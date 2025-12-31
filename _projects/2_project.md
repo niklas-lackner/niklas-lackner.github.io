@@ -3,7 +3,7 @@ layout: page
 title: project 2
 description: a project with a background image and giscus comments
 img: assets/img/MINERAL2.png
-importance: 2
+importance: 1
 category: research
 giscus_comments: true
 ---

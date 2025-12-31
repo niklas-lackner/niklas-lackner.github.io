@@ -3,7 +3,7 @@ layout: page
 title: project 10
 description: another project with an image 🎉
 img: assets/img/THORAVIS2.jpg
-importance: 4
+importance: 1
 category: research
 ---
 
