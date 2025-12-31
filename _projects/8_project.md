@@ -2,7 +2,7 @@
 layout: page
 title: project 8
 description: an other project with a background image and giscus comments
-img: assets/img/THERMEX.png
+img: assets/img/THERMEX2.png
 importance: 2
 category: research
 giscus_comments: true

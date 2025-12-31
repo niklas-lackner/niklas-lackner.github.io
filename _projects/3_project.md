@@ -2,7 +2,7 @@
 layout: page
 title: project 3 with very long name
 description: a project that redirects to another website
-img: assets/img/TRAJECT.png
+img: assets/img/TRAJECT2.png
 redirect: https://unsplash.com
 importance: 3
 category: research
