@@ -2,7 +2,7 @@
 layout: page
 title: project 5
 description: a project with a background image
-img: assets/img/PEDIHDACT2.png
+img: assets/img/PEDIDHACT2.png
 importance: 1
 category: research
 ---

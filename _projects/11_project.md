@@ -2,7 +2,7 @@
 layout: page
 title: project 11
 description: another project with an image 🎉
-img: assets/img/STONED2.jpg
+img: assets/img/STONED2.png
 importance: 1
 category: research
 ---
