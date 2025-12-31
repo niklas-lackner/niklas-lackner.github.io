@@ -1,0 +1,12 @@
+# Force LF line endings, needed for Docker to work on Windows
+*.sh text eol=lf
+
+# Explicitly define common formats
+*.md   text eol=lf
+*.yml  text eol=lf
+*.yaml text eol=lf
+*.json text eol=lf
+*.js   text eol=lf
+*.css  text eol=lf
+*.scss text eol=lf
+*.html text eol=lf
