@@ -2,7 +2,7 @@
 layout: page
 title: project 7
 description: with background image
-img: assets/img/STONED.png
+img: assets/img/ADIPOSE.png
 importance: 1
 category: research
 related_publications: true
