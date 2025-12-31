@@ -2,7 +2,7 @@
 layout: page
 title: project 9
 description: another project with an image 🎉
-img: assets/img/THORACLASS2.jpg
+img: assets/img/THORACLASS2.png
 importance: 4
 category: research
 ---
