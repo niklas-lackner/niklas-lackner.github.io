@@ -30,13 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "projects-project-9",
-          title: 'project 9',
+        },{id: "projects-project-10",
+          title: 'project 10',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project_.html";
-            },},{id: "projects-project-9",
-          title: 'project 9',
+            },},{id: "projects-project-11",
+          title: 'project 11',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_project.html";
