@@ -2,9 +2,9 @@
 layout: page
 title: project 9
 description: another project with an image 🎉
-img: assets/img/6.jpg
+img: assets/img/THORACLASS.jpg
 importance: 4
-category: fun
+category: research
 ---
 
 Every project has a beautiful feature showcase page.

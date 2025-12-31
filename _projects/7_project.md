@@ -2,9 +2,9 @@
 layout: page
 title: project 7
 description: with background image
-img: assets/img/4.jpg
+img: assets/img/STONED.png
 importance: 1
-category: work
+category: research
 related_publications: true
 ---
 
