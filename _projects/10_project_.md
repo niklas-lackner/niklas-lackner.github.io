@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 9
+title: project 10
 description: another project with an image 🎉
 img: assets/img/THORAVIS2.jpg
 importance: 4
