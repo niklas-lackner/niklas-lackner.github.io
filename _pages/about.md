@@ -8,10 +8,10 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
- # more_info: >
- #   <p>Department of Radiology</p>
- #   <p>University Hospital Erlangen</p>
- #   <p>Friedrich-Alexander-Universität Erlangen–Nürnberg</p>
+  # more_info: >
+  #   <p>Department of Radiology</p>
+  #   <p>University Hospital Erlangen</p>
+  #   <p>Friedrich-Alexander-Universität Erlangen–Nürnberg</p>
 
 selected_papers: false
 social: true
