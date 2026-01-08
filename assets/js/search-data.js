@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "A growing collection of projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -30,19 +30,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "projects-project-10",
-          title: 'project 10',
-          description: "another project with an image 🎉",
+        },{id: "projects-thoravis",
+          title: 'THORAVIS',
+          description: "Learning shared image–text representations for thoracic radiology",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project_.html";
-            },},{id: "projects-project-11",
-          title: 'project 11',
-          description: "another project with an image 🎉",
+            },},{id: "projects-stoned",
+          title: 'STONED',
+          description: "Spectral photon-counting CT for material discrimination of renal stones",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_project.html";
             },},{id: "projects-tsapdos",
           title: 'TSAPDOS',
-          description: "Tissue specific additive phantom dosimetry",
+          description: "Tissue-specific dosimetry using additively manufactured anthropomorphic phantoms",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
             },},{id: "projects-project-5",
@@ -50,44 +50,44 @@ ninja.data = [{
           description: "a project with a background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project_RACOON.html";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-mineral",
+          title: 'MINERAL',
+          description: "Spectral CT validation of virtual monoenergetic imaging for bone mineral density assessment",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-traject",
+          title: 'TRAJECT',
+          description: "AI-driven analysis of longitudinal patient trajectories across radiology and radiotherapy",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project.html";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-dentect",
+          title: 'DENTECT',
+          description: "Automated detection and evaluation of dental findings using photon-counting CT",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project.html";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-pedihdact",
+          title: 'PEDIHDACT',
+          description: "Spectral photon-counting CT for anthropomorphic pediatric phantom evaluation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project.html";
             },},{id: "projects-graded",
           title: 'GRADED',
-          description: "Monte Carlo CT dose modelling and deep-learning acceleration",
+          description: "Monte Carlo CT dose modelling with deep-learning acceleration",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project.html";
             },},{id: "projects-adipodose",
           title: 'ADIPODOSE',
-          description: "Patient-Specific SSDE and Body Fat Correlation",
+          description: "Quantifying the impact of body fat on patient-specific SSDE in CT",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project.html";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-thermex",
+          title: 'THERMEX',
+          description: "Spectral CT-based thermometry from temperature-dependent attenuation changes",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project.html";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-thoraclass",
+          title: 'THORACLASS',
+          description: "Report-guided image classification of thoracic CT examinations",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project.html";
             },},{
