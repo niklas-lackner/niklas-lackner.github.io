@@ -90,6 +90,11 @@ ninja.data = [{
           description: "Report-guided image classification of thoracic CT examinations",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project.html";
+            },},{id: "projects-tsapdos",
+          title: 'TSAPDOS',
+          description: "Tissue-specific dosimetry using additively manufactured anthropomorphic phantoms",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/template.html";
             },},{
         id: 'social-cv',
         title: 'CV',
