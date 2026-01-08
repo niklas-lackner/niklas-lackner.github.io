@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: GRADED
+description: Monte Carlo CT dose modelling and deep-learning acceleration
 img: assets/img/GRADED2.png
 importance: 1
 category: research

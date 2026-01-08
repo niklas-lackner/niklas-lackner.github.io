@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: TSAPDOS
+description: Tissue specific additive phantom dosimetry
 img: assets/img/TSAPDOS2.png
 importance: 1
 category: research

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 7
-description: with background image
+title: ADIPODOSE
+description: Patient-Specific SSDE and Body Fat Correlation
 img: assets/img/ADIPODOSE2.png
 importance: 1
 category: research
