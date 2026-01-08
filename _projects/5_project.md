@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: PEDIHDACT
+description: Spectral photon-counting CT for anthropomorphic pediatric phantom evaluation
 img: assets/img/PEDIDHACT2.png
 importance: 1
 category: research

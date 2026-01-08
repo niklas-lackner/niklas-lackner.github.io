@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GRADED
-description: Monte Carlo CT dose modelling and deep-learning acceleration
+description: Monte Carlo CT dose modelling with deep-learning acceleration
 img: assets/img/GRADED2.png
 importance: 1
 category: research

@@ -1,9 +1,8 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: TRAJECT
+description: AI-driven analysis of longitudinal patient trajectories across radiology and radiotherapy
 img: assets/img/TRAJECT2.png
-redirect: https://unsplash.com
 importance: 1
 category: research
 ---

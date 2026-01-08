@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 11
-description: another project with an image 🎉
+title: STONED
+description: Spectral photon-counting CT for material discrimination of renal stones
 img: assets/img/STONED2.png
 importance: 1
 category: research

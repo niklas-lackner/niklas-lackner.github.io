@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ADIPODOSE
-description: Patient-Specific SSDE and Body Fat Correlation
+description: Quantifying the impact of body fat on patient-specific SSDE in CT
 img: assets/img/ADIPODOSE2.png
 importance: 1
 category: research

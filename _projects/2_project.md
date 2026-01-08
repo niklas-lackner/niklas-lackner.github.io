@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: MINERAL
+description: Spectral CT validation of virtual monoenergetic imaging for bone mineral density assessment
 img: assets/img/MINERAL2.png
 importance: 1
 category: research

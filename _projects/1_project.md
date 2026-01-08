@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TSAPDOS
-description: Tissue specific additive phantom dosimetry
+description: Tissue-specific dosimetry using additively manufactured anthropomorphic phantoms
 img: assets/img/TSAPDOS2.png
 importance: 1
 category: research

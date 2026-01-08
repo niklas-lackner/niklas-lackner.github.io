@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 10
-description: another project with an image 🎉
+title: THORAVIS
+description: Learning shared image–text representations for thoracic radiology
 img: assets/img/THORAVIS2.png
 importance: 1
 category: research

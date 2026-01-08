@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
+title: THERMEX
+description: Spectral CT-based thermometry from temperature-dependent attenuation changes
 img: assets/img/THERMEX2.png
 importance: 1
 category: research

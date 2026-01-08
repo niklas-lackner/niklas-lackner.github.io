@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: DENTECT
+description: Automated detection and evaluation of dental findings using photon-counting CT
 img: assets/img/DENTECT2.png
 importance: 1
 category: research

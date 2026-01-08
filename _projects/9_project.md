@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
+title: THORACLASS
+description: Report-guided image classification of thoracic CT examinations
 img: assets/img/THORACLASS2.png
 importance: 1
 category: research
