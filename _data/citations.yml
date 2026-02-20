@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-12'
+  last_updated: '2026-02-20'
 papers:
   vwzlypEAAAAJ:LkGwnXOMwfcC:
     citations: 0
@@ -11,10 +11,10 @@ papers:
     year: '2023'
   vwzlypEAAAAJ:WF5omc3nYNoC:
     citations: 0
-    title: 'Surface-Guided Breathing Signal Integration in Breathing-Adapted Intelligent 4dct: Prototype Implementation and Comparison with an Infrared Marker-Based System'
-    year: Unknown Year
+    title: 'Surface-guided breathing signal integration in breathing-adapted intelligent 4DCT: prototype implementation and comparison with an infrared marker-based system'
+    year: '2025'
   vwzlypEAAAAJ:YsMSGLbcyi4C:
-    citations: 2
+    citations: 3
     title: "Exploring surface\u2010guided systems for intelligent breathing\u2010adapted four\u2010dimensional computed tomography: A comparison to infrared\u2010based reflective marker systems"
     year: '2025'
   vwzlypEAAAAJ:eQOLeE2rZwMC:
@@ -26,7 +26,7 @@ papers:
     title: "Impact of beamline\u2010specific particle energy spectra on clinical plans in carbon ion beam therapy"
     year: '2022'
   vwzlypEAAAAJ:u5HHmVD_uO8C:
-    citations: 2
+    citations: 3
     title: "Investigating the effects of table movement and sag on optical surrogate\u2010driven respiratory\u2010guided computed tomography"
     year: '2025'
   vwzlypEAAAAJ:ufrVoPGSRksC:
@@ -34,6 +34,6 @@ papers:
     title: A novel respiratory surrogate system with table motion correction and visual feedback for computed tomography
     year: '2025'
   vwzlypEAAAAJ:zYLM7Y9cAGgC:
-    citations: 3
+    citations: 5
     title: Is model-based dose calculation based on cone-beam computed tomography suitable for adaptive treatment planning in brachytherapy?
     year: '2025'
