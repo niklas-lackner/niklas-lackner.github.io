@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-06-05'
 papers:
   vwzlypEAAAAJ:LkGwnXOMwfcC:
     citations: 0
@@ -34,6 +34,6 @@ papers:
     title: A novel respiratory surrogate system with table motion correction and visual feedback for computed tomography
     year: '2025'
   vwzlypEAAAAJ:zYLM7Y9cAGgC:
-    citations: 7
+    citations: 8
     title: Is model-based dose calculation based on cone-beam computed tomography suitable for adaptive treatment planning in brachytherapy?
     year: '2025'
